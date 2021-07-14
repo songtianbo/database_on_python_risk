@@ -1,0 +1,2 @@
+employee.py是employee类
+然后想测试create的话先删除.db文件，再运行
